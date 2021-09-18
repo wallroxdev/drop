@@ -1,6 +1,24 @@
 [
    {
       "author":"Ankit Anand",
+      "url":"https://i.ibb.co/jG00Z7D/papr14.jpg",
+      "downloadable":false,
+      "name":"Trilogy",
+      "category":"new"
+   },{
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/BK9hBtj/papr13.jpg",
+      "downloadable":false,
+      "name":"Miracle",
+      "category":"new"
+   },{
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/ZJvqkYx/papr12.jpg",
+      "downloadable":false,
+      "name":"Grace",
+      "category":"new"
+   },{
+      "author":"Ankit Anand",
       "url":"https://i.ibb.co/p1S2V2f/papr11.jpg",
       "downloadable":false,
       "name":"Faction",
