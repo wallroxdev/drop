@@ -1,28 +1,32 @@
 [
    {
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/zbNDZYG/papr39.jpg",
-		"name": "Fire",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/SvwCXCQ/papr38.jpg",
-		"name": "Okra",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/sRK32Xm/papr37.jpg",
-		"name": "Purple Power",
-		"category": "new"
-	},
-	{
-		"author": "Ankit Anand",
-		"url": "https://i.ibb.co/RQ0Bj4p/papr36.jpg",
-		"name": "Dragon Fruit",
-		"category": "new"
-	},
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/zbNDZYG/papr39.jpg",
+      "downloadable":false,
+      "name":"Fire",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/SvwCXCQ/papr38.jpg",
+      "downloadable":false,
+      "name":"Okra",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/sRK32Xm/papr37.jpg",
+      "downloadable":false,
+      "name":"Purple Power",
+      "category":"new"
+   },
+   {
+      "author":"Ankit Anand",
+      "url":"https://i.ibb.co/RQ0Bj4p/papr36.jpg",
+      "downloadable":false,
+      "name":"Dragon Fruit",
+      "category":"new"
+   },
    {
       "author":"Ankit Anand",
       "url":"https://i.ibb.co/ncv31JG/papr35.jpg",
